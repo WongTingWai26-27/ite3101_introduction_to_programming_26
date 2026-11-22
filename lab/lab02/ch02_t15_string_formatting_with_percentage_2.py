@@ -1,7 +1,5 @@
-name = input("What is your name? ")
-quest = input("What is your quest? ")
-color = input("What is your favorite color? ")
+string_1 = "Camelot"
+string_2 = "place"
 
-# Uncomment the below 2 line of code!
-# print("Ah, so your name is ___, your quest is ___, "
-# "and your favorite color is ___." ___ (name, quest, color))
+print("Let's not go to %s. 'Tis a silly %s." % (string_1, string_2))
+
