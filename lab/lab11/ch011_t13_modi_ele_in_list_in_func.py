@@ -5,3 +5,7 @@ for i in range(0, len(n)):
 # Don't forget to return your new list!
 
 # print(double_list(n))
+def double_list(x):
+    for i in range(len(x)):
+        x[i] *= 2
+    return x
