@@ -1,4 +1,3 @@
-```python
 total = 0
 
 for food in prices:
