@@ -6,4 +6,3 @@ for food in prices:
     total += value
 
 print(total)
-```
